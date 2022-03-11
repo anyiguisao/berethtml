@@ -1,0 +1,87 @@
+body{
+    background: url('../images/Beret12.jpg')
+}
+
+p{
+    text-align: center;
+    color:#111010;
+    padding: 10%;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+}
+.tabla{
+    text-align: center;     
+}
+
+img{
+    width: 80%;
+    text-align: center;
+
+}
+
+main{
+    width: 30%;
+    background: rgb(218, 241, 246); 
+    margin: 0 auto;
+    padding: 10px 250px 0 250px;
+}
+
+h1, h2, h3{
+    text-align: center;
+    color:#0e0f0f;
+    margin: 0 0 px 0;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;    
+}
+
+nav ul li a{
+    text-decoration:none;
+    padding: 10px;
+    margin:0 50px 0 0;
+    border:1px solid #ccc;
+    background: #564345;
+    color : rgb(214, 220, 221);
+    border-radius: 5px;
+}
+
+nav ul li a:hover{
+    background:  #c6e4f5; 
+    color:#0e0f0f;
+}
+
+nav {
+    margin: 50px 0 0px 0;
+}
+
+.center{
+    text-align: center;
+    
+    
+
+}
+
+
+
+.float{
+    float:left;
+    
+
+}
+footer P{
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
